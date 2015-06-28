@@ -1,0 +1,33 @@
+{
+  "name": "stream-adventure-code",
+  "version": "0.0.1",
+  "description": "Code sample for node school's stream-adventure workshop",
+  "dependencies": {
+    "concat-stream": "^1.4.10",
+    "duplexer": "^0.1.1",
+    "duplexer2": "0.0.2",
+    "request": "^2.58.0",
+    "split": "^1.0.0",
+    "stream-combiner": "^0.2.2",
+    "tar": "^2.1.1",
+    "through2": "^2.0.0",
+    "trumpet": "^1.7.1",
+    "websocket-stream": "^1.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lutepluto/stream-adventure-code.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "lute",
+  "bugs": {
+    "url": "https://github.com/lutepluto/stream-adventure-code/issues"
+  },
+  "homepage": "https://github.com/lutepluto/stream-adventure-code#readme"
+}
